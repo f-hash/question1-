@@ -1,19 +1,17 @@
 public static void main(String args[]){
 
-   
-  
 }
 
-public static int(int a ){
+public static int(int d ){
   
 while(x <  y){
-   a = 5;
+   d = 10;
 }
 
-return a;
+return d;
 } 
 
-if( a > 1){
+if( a > 11){
 
 }
 
@@ -22,19 +20,19 @@ foreach(type int : arr){
 }
 
 
-String a = "i"; 
+String a = "hello"; 
 
 
 switch(a){
-  case "blue": 
-  System.out.println("The key is blue");
+  case "world": 
+  System.out.println("Hello World");
   break; 
 }
 
-public static int look( int a){
+public static int look( int k){
   int c = 1
 for(int i = 0; i < length; i++){
-   a == c;   
+   k == c;   
 }
   return 2 + 8;
 
